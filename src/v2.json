@@ -1,8 +1,0 @@
-{
-   "statusCode":200,
-    "data":{
-       "firstName":"JOHN",
-       "lastName":"MICHAEL",
-       "clientID":"9999-4567"
-    }
- }
